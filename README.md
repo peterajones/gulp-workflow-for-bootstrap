@@ -262,10 +262,9 @@ If you have followed all of these instructions you will see that the builds/deve
 3. You have checked for any updates to the NPM dependencies by running npm-check-updates -u in the command line which downloaded any updates AND updated the package.json file.
 4. You followed the instructions at the top of the gulpfile.js file and ran gulp devSetUp to create the development environment in builds/development/.
 5. You altered the builds/development.index.html and saw your changes in livereload.
-6. You reduced the number of calls to external files.
-7. You added your own .css and .js files for adding your styles/functionality and overrides.
-8. You learned how to add a slider.
-9. Lastly, you built the production environment where all of your files and images have been minified.
+6. You added your own .css and .js files for adding your styles/functionality and overrides.
+7. You learned how to add a slider.
+8. Lastly, you built the production environment where all of your files and images have been minified.
 
 ## Happy coding!
 
